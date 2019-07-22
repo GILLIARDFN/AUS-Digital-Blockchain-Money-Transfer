@@ -1,0 +1,2 @@
+# AUS-Digital-Blockchain-Money-Transfer
+AUS Digital Money Transfer Part of the AUSD Bank. Will Be a Fast and easy also low fee for Sending money to overseas. If you Have a Account with AUSD Bank It So Easy to send money in Few minutes.    The payment that exists purely in electronic form... digital money transfer is sending money using technologies such as smartphones, credit card and online crypto currency exchange
